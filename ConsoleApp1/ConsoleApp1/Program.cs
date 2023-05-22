@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             // comment      
             Console.WriteLine("Hello world!");
+            // new comment
         }
     }
 }
