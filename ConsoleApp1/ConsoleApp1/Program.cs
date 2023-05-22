@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            // comment      
-            Console.WriteLine("Hello world!");
+            // meaningful comment      
+            Console.WriteLine("Hello everyone!");
         }
     }
 }
